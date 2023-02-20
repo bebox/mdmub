@@ -420,7 +420,7 @@ aFourR = \paper {
 }
 
 \header {
-  copyright = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Creative Commons—Attribution-ShareAlike 4.0 | Eliam 2022 | Dravska 8, Pušćine } }
+  copyright = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Creative Commons—Attribution-ShareAlike 4.0 | CEF Hrvatska | Jakova Gotovca 2, Čakovec } }
   %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Tekst i glazba: Tobi Wörner } }
   tagline = ""
 }
