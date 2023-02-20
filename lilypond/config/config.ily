@@ -101,10 +101,10 @@ myStaffSize = #23
 %% USER DEF. FUNCTIONS %%------------------------------------------------------------
 %%%%%%%%%%%%%%%%%%%%%%%%%
 
-%eliam zuta
-%crvena = 1.000 zelena = 0.804 plava = 0.173
-%eliam narancasta
-crvena = 0.980 zelena = 0.635 plava = 0.122
+%cef crvena
+%crvena = 0.667 zelena = 0.153 plava = 0.243
+crvena = 0.969 zelena = 0.580 plava = 0.122
+
 
 %BREATHEMOJ
 \layout {
