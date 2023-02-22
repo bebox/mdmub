@@ -7,7 +7,8 @@
   composer = "Harry D. Clarke."
   style = ""
   broj = "2"
-  %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
+  tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { © 1955 Hope Publishing Co., Carol Stream, IL 60188.
+Sva prava pridržana. Korišteno s dopuštenjem. } }
 }
 
 \paper {

@@ -2,13 +2,8 @@
 \include "../config/include.ily"
 
 \header {
-  title = "Psalam 100, 2"
-  composer = "Tradicionalna"
-}
-
-\header {
-  title = "PSALAM 100, 2"
-  titlex = "Mala djeca mogu upoznati Boga"
+  title = "SLUŽITE BOGU"
+  titlex = "Psalam 100,2"
   composer = "Tradicionalna"
   style = ""
   broj = "10"

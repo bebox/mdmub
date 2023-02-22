@@ -7,7 +7,7 @@
   composer = ""
   style = ""
   broj = "7"
-  %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
+  tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { © 2001 Child Evangelism Fellowship Inc. Sva prava pridržana. } }
 }
 
 \paper {

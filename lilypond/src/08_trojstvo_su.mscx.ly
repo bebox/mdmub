@@ -7,7 +7,8 @@
   composer = ""
   style = ""
   broj = "8"
-  %tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { Izvorno: Name, Album } }
+  tagline = \markup { \override #'(font-name . "JohnSans White Pro") \override #'(font-size . -3) { © 2000 Hal Leonard Corp. Osigurana međunarodna autorska prava. Sva prava
+pridržana. Korišteno s dopuštenjem. } }
 }
 
 \paper {
